@@ -23,6 +23,7 @@ class Dangnhap extends Frame implements ActionListener {
 		add(b1);
 		setVisible (true);
 	}
+	//123
 	public void actionPerformed (ActionEvent e){
 		if (e.getSource()== b1)
 			new TextMessage(); 
