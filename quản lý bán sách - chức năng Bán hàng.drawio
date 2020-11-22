@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-11-22T08:49:17.674Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36 Edg/87.0.664.41" etag="KENtp_vifiHU1i7d3EsP" version="13.10.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-22T10:34:24.081Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36 Edg/87.0.664.41" etag="CoZAJQkTPV1YAh63co57" version="13.10.0" type="github">
   <diagram id="oDo7kxzeQm5iP3tuwgTI" name="Page-1">
-    <mxGraphModel dx="811" dy="2455" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2336" dy="2458" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -188,7 +188,7 @@
         <mxCell id="aIUQUNANYLxbSYOlphwK-1" value="Sách còn trong kho?&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="475" y="722.5" width="90" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="aIUQUNANYLxbSYOlphwK-3" value="Khách hàng đã có trong hệ thống" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" parent="1" vertex="1">
+        <mxCell id="aIUQUNANYLxbSYOlphwK-3" value="Khách hàng đã có trong hệ thống?" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="190" y="732.5" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="BxB7EzJWPoqpXeamAMvf-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#FF3333;" edge="1" parent="1" source="BxB7EzJWPoqpXeamAMvf-1" target="BxB7EzJWPoqpXeamAMvf-5">
