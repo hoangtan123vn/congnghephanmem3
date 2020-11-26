@@ -1,1 +1,119 @@
-<mxfile host="app.diagrams.net" modified="2020-11-26T03:25:29.731Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.67 Safari/537.36 Edg/87.0.664.47" version="13.10.2" etag="C7d52fuA1ay7DMvcHICf" type="github"><diagram id="SKCWXPfd4Rwxn_tPg-Sq">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-11-26T03:37:18.118Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.67 Safari/537.36 Edg/87.0.664.47" etag="xDlGi4B3_OEGCyAM6zj_" version="13.10.2" type="github">
+  <diagram id="SKCWXPfd4Rwxn_tPg-Sq" name="Page-1">
+    <mxGraphModel dx="1635" dy="902" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Ch-WJ7dpIVlzreHuffIb-1" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="360" y="50" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ch-WJ7dpIVlzreHuffIb-2" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;" edge="1" source="Ch-WJ7dpIVlzreHuffIb-1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="375" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ch-WJ7dpIVlzreHuffIb-3" value="Actor đăng nhập tài khoản và mật khẩu" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="315" y="140" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ch-WJ7dpIVlzreHuffIb-4" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;" edge="1" source="Ch-WJ7dpIVlzreHuffIb-3" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="375" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ch-WJ7dpIVlzreHuffIb-5" value="" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="334" y="240" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ch-WJ7dpIVlzreHuffIb-6" value="no" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" source="Ch-WJ7dpIVlzreHuffIb-5" parent="1" target="Ch-WJ7dpIVlzreHuffIb-3">
+          <mxGeometry x="-1" relative="1" as="geometry">
+            <mxPoint x="680" y="110" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="680" y="260" />
+              <mxPoint x="680" y="160" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ch-WJ7dpIVlzreHuffIb-7" value="yes" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=top;endArrow=open;endSize=8;strokeColor=#ff0000;" edge="1" source="Ch-WJ7dpIVlzreHuffIb-5" parent="1">
+          <mxGeometry x="-1" y="6" relative="1" as="geometry">
+            <mxPoint x="374" y="330" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ch-WJ7dpIVlzreHuffIb-8" value="Tìm thấy tài khoản?" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="250" y="250" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ch-WJ7dpIVlzreHuffIb-9" value="Hệ thống thông báo không tìm thấy tài khoản" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="510" y="230" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Ch-WJ7dpIVlzreHuffIb-10" value="" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="334" y="330" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ch-WJ7dpIVlzreHuffIb-11" value="no" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" source="Ch-WJ7dpIVlzreHuffIb-10" parent="1" target="Ch-WJ7dpIVlzreHuffIb-3">
+          <mxGeometry x="-1" relative="1" as="geometry">
+            <mxPoint x="720" y="200" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="700" y="350" />
+              <mxPoint x="700" y="170" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ch-WJ7dpIVlzreHuffIb-12" value="yes" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=top;endArrow=open;endSize=8;strokeColor=#ff0000;" edge="1" source="Ch-WJ7dpIVlzreHuffIb-10" parent="1">
+          <mxGeometry x="-1" y="16" relative="1" as="geometry">
+            <mxPoint x="374" y="430" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ch-WJ7dpIVlzreHuffIb-13" value="Tìm thấy mật khẩu?" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="250" y="335" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ch-WJ7dpIVlzreHuffIb-14" value="Hệ thống thông báo sai mật khẩu" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="510" y="315" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Ch-WJ7dpIVlzreHuffIb-15" value="" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="334" y="430" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ch-WJ7dpIVlzreHuffIb-16" value="no" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" source="Ch-WJ7dpIVlzreHuffIb-15" parent="1" target="Ch-WJ7dpIVlzreHuffIb-24">
+          <mxGeometry x="-1" relative="1" as="geometry">
+            <mxPoint x="610" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ch-WJ7dpIVlzreHuffIb-17" value="yes" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=top;endArrow=open;endSize=8;strokeColor=#ff0000;" edge="1" source="Ch-WJ7dpIVlzreHuffIb-15" parent="1">
+          <mxGeometry x="-1" y="16" relative="1" as="geometry">
+            <mxPoint x="374" y="530" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ch-WJ7dpIVlzreHuffIb-18" value="Tài khoản đăng nhập là nhân viên?" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="264" y="435" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ch-WJ7dpIVlzreHuffIb-19" value="Phân quyền chức năng : Bán hàng" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="320" y="530" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ch-WJ7dpIVlzreHuffIb-20" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" source="Ch-WJ7dpIVlzreHuffIb-19" parent="1" target="Ch-WJ7dpIVlzreHuffIb-26">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="370" y="640" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="380" y="630" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ch-WJ7dpIVlzreHuffIb-24" value="Phân quyền chức năng : Quản lý nhập sách,Quản lý kho,Xuất kho,Thống kê,Quản lý nhà cung cấp,Quản lý nhân viên" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="540" y="430" width="500" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ch-WJ7dpIVlzreHuffIb-25" value="" style="html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.478;exitY=1.036;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" source="Ch-WJ7dpIVlzreHuffIb-24" parent="1" target="Ch-WJ7dpIVlzreHuffIb-26">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="790" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ch-WJ7dpIVlzreHuffIb-28" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF0000;" edge="1" parent="1" source="Ch-WJ7dpIVlzreHuffIb-26" target="Ch-WJ7dpIVlzreHuffIb-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ch-WJ7dpIVlzreHuffIb-26" value="Chuyển đến trang chủ&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="720" y="610" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ch-WJ7dpIVlzreHuffIb-27" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="765" y="720" width="30" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
