@@ -1,1 +1,41 @@
-<mxfile host="app.diagrams.net" modified="2020-11-30T14:00:10.835Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.67 Safari/537.36 Edg/87.0.664.47" version="13.10.4" etag="cRP4oM_-QliMWvti-rJK" type="github"><diagram id="F4WxD6uwYIifY8nEcQOH">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-11-30T14:53:13.769Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.67 Safari/537.36 Edg/87.0.664.47" etag="cWWySeZth8d-yQrnCGm-" version="13.10.4" type="github">
+  <diagram id="F4WxD6uwYIifY8nEcQOH" name="Page-1">
+    <mxGraphModel dx="1395" dy="900" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="IwrdNwPzMqrolufjk04F-2" value="Quản lý" style="shape=umlLifeline;participant=umlActor;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;size=40;" vertex="1" parent="1">
+          <mxGeometry x="-90" y="145" width="20" height="690" as="geometry" />
+        </mxCell>
+        <mxCell id="IwrdNwPzMqrolufjk04F-10" value="Yêu cầu xem danh sách trong kho" style="html=1;verticalAlign=bottom;endArrow=block;" edge="1" parent="IwrdNwPzMqrolufjk04F-2" target="IwrdNwPzMqrolufjk04F-4">
+          <mxGeometry x="-0.0453" width="80" relative="1" as="geometry">
+            <mxPoint x="10" y="105" as="sourcePoint" />
+            <mxPoint x="90" y="105" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IwrdNwPzMqrolufjk04F-4" value="GDQuanLyKHo" style="shape=umlLifeline;participant=umlBoundary;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="150" width="60" height="680" as="geometry" />
+        </mxCell>
+        <mxCell id="IwrdNwPzMqrolufjk04F-5" value="GDPhieuDatHang" style="shape=umlLifeline;participant=umlBoundary;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="330" y="150" width="60" height="680" as="geometry" />
+        </mxCell>
+        <mxCell id="IwrdNwPzMqrolufjk04F-6" value="QLKhoController" style="shape=umlLifeline;participant=umlControl;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="460" y="155" width="50" height="680" as="geometry" />
+        </mxCell>
+        <mxCell id="IwrdNwPzMqrolufjk04F-8" value="DonDatHang" style="shape=umlLifeline;participant=umlEntity;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="780" y="157.5" width="40" height="680" as="geometry" />
+        </mxCell>
+        <mxCell id="IwrdNwPzMqrolufjk04F-15" value="HangController" style="shape=umlLifeline;participant=umlControl;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="600" y="155" width="50" height="680" as="geometry" />
+        </mxCell>
+        <mxCell id="IwrdNwPzMqrolufjk04F-16" value="Hang" style="shape=umlLifeline;participant=umlEntity;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="940" y="155" width="40" height="685" as="geometry" />
+        </mxCell>
+        <mxCell id="IwrdNwPzMqrolufjk04F-17" value="ThemHangMoi" style="shape=umlLifeline;participant=umlBoundary;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="220" y="150" width="60" height="680" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
