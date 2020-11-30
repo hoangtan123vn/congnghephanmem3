@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-30T12:26:16.785Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.67 Safari/537.36 Edg/87.0.664.47" etag="e109UqdsIOGFbPOBCuhZ" version="13.10.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-30T13:08:33.332Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.67 Safari/537.36 Edg/87.0.664.47" etag="LH9361YOorzX0dNXvwOE" version="13.10.4" type="github">
   <diagram id="mxDwVRec4NK45EJaIaoZ" name="Page-1">
     <mxGraphModel dx="2190" dy="752" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -34,7 +34,7 @@
           <mxGeometry x="450" y="60" width="40" height="770" as="geometry" />
         </mxCell>
         <mxCell id="zMUYLRyAMqqI5krV97Zd-45" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fontSize=11;" parent="1jl7d98m6wNaI9FmTj8V-4" vertex="1">
-          <mxGeometry x="15" y="210" width="10" height="330" as="geometry" />
+          <mxGeometry x="15" y="210" width="10" height="440" as="geometry" />
         </mxCell>
         <mxCell id="1jl7d98m6wNaI9FmTj8V-5" value="HoaDon" style="shape=umlLifeline;participant=umlEntity;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="730" y="60" width="40" height="770" as="geometry" />
@@ -189,19 +189,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="cqJ3o2wXYfBkKr0OhI-k-1" value="Thanh toán hóa đơn" style="html=1;verticalAlign=bottom;endArrow=block;" parent="1" edge="1">
-          <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="20.000344827586275" y="670" as="sourcePoint" />
-            <mxPoint x="334.69" y="670" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="40.19" y="670" />
-              <mxPoint x="90.19" y="670" />
-              <mxPoint x="110.19" y="670" />
-              <mxPoint x="260.19" y="670" />
-              <mxPoint x="300.19" y="670" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="cqJ3o2wXYfBkKr0OhI-k-8" value="Tính tổng tiền" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" parent="1" target="zMUYLRyAMqqI5krV97Zd-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="470" y="450" as="sourcePoint" />
@@ -233,14 +220,21 @@
         <mxCell id="cqJ3o2wXYfBkKr0OhI-k-19" value="Thông báo lỗi" style="text;align=center;fontStyle=0;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=11;" parent="1" vertex="1">
           <mxGeometry x="155" y="540" width="80" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="cqJ3o2wXYfBkKr0OhI-k-3" value="Lưu thông tin hóa đơn()" style="html=1;verticalAlign=bottom;endArrow=block;" parent="1" source="zMUYLRyAMqqI5krV97Zd-30" target="1jl7d98m6wNaI9FmTj8V-5" edge="1">
+        <mxCell id="cqJ3o2wXYfBkKr0OhI-k-3" value="Lưu thông tin hóa đơn()" style="html=1;verticalAlign=bottom;endArrow=block;" parent="1" target="1jl7d98m6wNaI9FmTj8V-5" edge="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="470" y="690" as="sourcePoint" />
+            <mxPoint x="420" y="670" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="630" y="690" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0lrwmZiLr9F3PWPr3PGv-1" value="Thanh toán hóa đơn" style="html=1;verticalAlign=bottom;endArrow=block;" edge="1" parent="1" source="zMUYLRyAMqqI5krV97Zd-30" target="1jl7d98m6wNaI9FmTj8V-4">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="340" y="670" as="sourcePoint" />
             <mxPoint x="420" y="670" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="350" y="690" />
-              <mxPoint x="410" y="690" />
-              <mxPoint x="630" y="690" />
+              <mxPoint x="430" y="640" />
             </Array>
           </mxGeometry>
         </mxCell>
