@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-04T04:09:02.791Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.67 Safari/537.36 Edg/87.0.664.52" etag="PYSih3t6U6MSdvyTpVQC" version="13.10.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-04T06:34:41.023Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.67 Safari/537.36 Edg/87.0.664.52" etag="Z0T8wMtx-jy7rVYoZlH1" version="13.10.6" type="github">
   <diagram id="sTBswLKVEu3d386GMAn0" name="Page-1">
     <mxGraphModel dx="3163" dy="2458" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -164,7 +164,7 @@
             <mxPoint x="120" y="116" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mZz9RncvFgPk3kGvwGDU-5" value="&lt;font style=&quot;font-size: 15px&quot;&gt;Actor chọn Xem lịch sử nhập hàng&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="mZz9RncvFgPk3kGvwGDU-5" value="&lt;font style=&quot;font-size: 15px&quot;&gt;Actor chọn lịch sử nhập hàng&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="425" y="86" width="137" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mZz9RncvFgPk3kGvwGDU-7" value="yes" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=#FFFFFF;" parent="1" vertex="1">
