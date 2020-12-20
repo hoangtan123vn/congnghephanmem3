@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-01T01:08:23.685Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.67 Safari/537.36 Edg/87.0.664.47" etag="2XEg2z6_FvF5hwF2KaCq" version="13.10.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-20T11:48:57.973Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36 Edg/87.0.664.66" etag="KwPWj4oky_OOuKo2nM_m" version="14.0.4" type="github">
   <diagram id="GsA88-R3-k9HEr8MOIdp" name="Page-1">
     <mxGraphModel dx="3024" dy="1061" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -44,20 +44,14 @@
             <mxPoint x="110" y="455" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DxOmsWcF1WVwctE-kaGi-30" value="Cập nhật nhân viên()" style="html=1;verticalAlign=bottom;endArrow=block;fontSize=15;" parent="DxOmsWcF1WVwctE-kaGi-2" target="DxOmsWcF1WVwctE-kaGi-5" edge="1">
-          <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="30" y="645" as="sourcePoint" />
-            <mxPoint x="110" y="645" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="DxOmsWcF1WVwctE-kaGi-57" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fontSize=15;" parent="DxOmsWcF1WVwctE-kaGi-2" vertex="1">
           <mxGeometry x="20" y="250" width="10" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="DxOmsWcF1WVwctE-kaGi-59" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fontSize=15;" parent="DxOmsWcF1WVwctE-kaGi-2" vertex="1">
-          <mxGeometry x="20" y="600" width="10" height="65" as="geometry" />
-        </mxCell>
         <mxCell id="DxOmsWcF1WVwctE-kaGi-3" value="CapNhatNhanvienForm" style="shape=umlLifeline;participant=umlBoundary;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="460" y="95" width="50" height="970" as="geometry" />
+        </mxCell>
+        <mxCell id="DxOmsWcF1WVwctE-kaGi-59" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fontSize=15;" parent="DxOmsWcF1WVwctE-kaGi-3" vertex="1">
+          <mxGeometry x="20" y="600" width="10" height="65" as="geometry" />
         </mxCell>
         <mxCell id="DxOmsWcF1WVwctE-kaGi-5" value="NhanvienController" style="shape=umlLifeline;participant=umlControl;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="790" y="95" width="40" height="970" as="geometry" />
@@ -126,13 +120,13 @@
         <mxCell id="DxOmsWcF1WVwctE-kaGi-67" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fontSize=15;" parent="DxOmsWcF1WVwctE-kaGi-7" vertex="1">
           <mxGeometry x="19" y="765" width="10" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="wUo9u8nOnJUg-n2kmJeA-3" value="&lt;font style=&quot;font-size: 15px&quot;&gt;Gọi&amp;nbsp; GD Cập nhật nhân viên&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;" edge="1" parent="DxOmsWcF1WVwctE-kaGi-7" target="DxOmsWcF1WVwctE-kaGi-3">
+        <mxCell id="wUo9u8nOnJUg-n2kmJeA-3" value="&lt;font style=&quot;font-size: 15px&quot;&gt;Gọi&amp;nbsp; GD Cập nhật nhân viên&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;" parent="DxOmsWcF1WVwctE-kaGi-7" target="DxOmsWcF1WVwctE-kaGi-3" edge="1">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="20" y="555" as="sourcePoint" />
             <mxPoint x="100" y="555" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wUo9u8nOnJUg-n2kmJeA-4" value="Gọi GD Sắp xếp lịch làm" style="html=1;verticalAlign=bottom;endArrow=block;" edge="1" parent="DxOmsWcF1WVwctE-kaGi-7" target="DxOmsWcF1WVwctE-kaGi-65">
+        <mxCell id="wUo9u8nOnJUg-n2kmJeA-4" value="Gọi GD Sắp xếp lịch làm" style="html=1;verticalAlign=bottom;endArrow=block;" parent="DxOmsWcF1WVwctE-kaGi-7" target="DxOmsWcF1WVwctE-kaGi-65" edge="1">
           <mxGeometry x="-0.0233" y="10" width="80" relative="1" as="geometry">
             <mxPoint x="30" y="795" as="sourcePoint" />
             <mxPoint x="110" y="795" as="targetPoint" />
@@ -173,7 +167,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="DxOmsWcF1WVwctE-kaGi-28" value="Hiển thị GD Cập nhật Nhân viên" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;fontSize=15;" parent="1" target="DxOmsWcF1WVwctE-kaGi-7" edge="1" source="DxOmsWcF1WVwctE-kaGi-3">
+        <mxCell id="DxOmsWcF1WVwctE-kaGi-28" value="Hiển thị GD Cập nhật Nhân viên" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;fontSize=15;" parent="1" source="DxOmsWcF1WVwctE-kaGi-3" target="DxOmsWcF1WVwctE-kaGi-7" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="490" y="670" as="sourcePoint" />
             <mxPoint x="410" y="670" as="targetPoint" />
@@ -228,7 +222,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wUo9u8nOnJUg-n2kmJeA-1" value="&lt;font style=&quot;font-size: 13px&quot;&gt;Gọi GD thêm Nhân viên&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;" edge="1" parent="1" source="DxOmsWcF1WVwctE-kaGi-56" target="DxOmsWcF1WVwctE-kaGi-2">
+        <mxCell id="wUo9u8nOnJUg-n2kmJeA-1" value="&lt;font style=&quot;font-size: 13px&quot;&gt;Gọi GD thêm Nhân viên&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;" parent="1" source="DxOmsWcF1WVwctE-kaGi-56" target="DxOmsWcF1WVwctE-kaGi-2" edge="1">
           <mxGeometry x="0.0409" y="10" width="80" relative="1" as="geometry">
             <mxPoint x="210" y="480" as="sourcePoint" />
             <mxPoint x="340" y="480" as="targetPoint" />
@@ -238,7 +232,7 @@
             <mxPoint x="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DxOmsWcF1WVwctE-kaGi-29" value="Cập nhật thông tin nhân viên&amp;nbsp;" style="html=1;verticalAlign=bottom;endArrow=block;fontSize=15;" parent="1" target="DxOmsWcF1WVwctE-kaGi-2" edge="1" source="DxOmsWcF1WVwctE-kaGi-45">
+        <mxCell id="DxOmsWcF1WVwctE-kaGi-29" value="Cập nhật thông tin nhân viên&amp;nbsp;" style="html=1;verticalAlign=bottom;endArrow=block;fontSize=15;" parent="1" source="DxOmsWcF1WVwctE-kaGi-45" target="DxOmsWcF1WVwctE-kaGi-3" edge="1">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="30" y="710" as="sourcePoint" />
             <mxPoint x="110" y="710" as="targetPoint" />
@@ -248,7 +242,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="DxOmsWcF1WVwctE-kaGi-38" value="Nhập thông tin ca làm mới cho nhân viên" style="html=1;verticalAlign=bottom;endArrow=block;fontSize=15;" parent="1" target="DxOmsWcF1WVwctE-kaGi-34" edge="1" source="DxOmsWcF1WVwctE-kaGi-45">
+        <mxCell id="DxOmsWcF1WVwctE-kaGi-38" value="Nhập thông tin ca làm mới cho nhân viên" style="html=1;verticalAlign=bottom;endArrow=block;fontSize=15;" parent="1" source="DxOmsWcF1WVwctE-kaGi-45" target="DxOmsWcF1WVwctE-kaGi-34" edge="1">
           <mxGeometry x="0.4732" width="80" relative="1" as="geometry">
             <mxPoint x="20" y="940" as="sourcePoint" />
             <mxPoint x="100" y="940" as="targetPoint" />
@@ -259,7 +253,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="DxOmsWcF1WVwctE-kaGi-40" value="Cập nhật ca làm mới()" style="html=1;verticalAlign=bottom;endArrow=block;fontSize=15;" parent="1" target="DxOmsWcF1WVwctE-kaGi-66" edge="1" source="DxOmsWcF1WVwctE-kaGi-65">
+        <mxCell id="DxOmsWcF1WVwctE-kaGi-40" value="Cập nhật ca làm mới()" style="html=1;verticalAlign=bottom;endArrow=block;fontSize=15;" parent="1" source="DxOmsWcF1WVwctE-kaGi-65" target="DxOmsWcF1WVwctE-kaGi-66" edge="1">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="660" y="968" as="sourcePoint" />
             <mxPoint x="730" y="967.5" as="targetPoint" />
@@ -274,6 +268,12 @@
             <mxPoint x="830" y="1000" as="sourcePoint" />
             <mxPoint x="900" y="987.5" as="targetPoint" />
             <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DxOmsWcF1WVwctE-kaGi-30" value="Cập nhật nhân viên()" style="html=1;verticalAlign=bottom;endArrow=block;fontSize=15;exitX=0.99;exitY=0.855;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" target="DxOmsWcF1WVwctE-kaGi-5" edge="1" source="DxOmsWcF1WVwctE-kaGi-59">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="350" y="740" as="sourcePoint" />
+            <mxPoint x="430" y="740" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
